@@ -1,4 +1,4 @@
 {
  "isShow":"1",
- "msg":"https://www.baidu.com"
+ "msg":"https://ky365zr.com"
 }
